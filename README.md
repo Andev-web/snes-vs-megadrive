@@ -22,7 +22,7 @@ La página compara **Super Nintendo** y **Sega Mega Drive**, mostrando sus carac
 
 Puedes ver la página online aquí:
 
-👉 https://TU-USUARIO.github.io/TU-REPO/
+👉 https://github.com/Andev-web/snes-vs-megadrive/
 
 ## 📚 Objetivo
 
